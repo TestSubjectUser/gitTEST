@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 init text
 annotated text tag
 demonstrating git -- reset soft
@@ -8,3 +9,40 @@ stash 3.1
 stash 3.2
 stage branch text
 div branch text
+=======
+Save time while doing it.
+Your business could handle five or more text conversations in the time it takes to field a typical phone call. And Podium features like folders, assignments, and templates keep all those conversations organized in one place.
+
+Keep them coming back.
+Communication can make or break the customer experience. Podium helps you drive repeat business with the right message for every moment of the customer journey.
+Save time while doing it.
+Your business could handle five or more text conversations in the time it takes to field a typical phone call. And Podium features like folders, assignments, and templates keep all those conversations organized in one place.
+
+Keep them coming back.
+Communication can make or break the customer experience. Podium helps you drive repeat business with the right message for every moment of the customer journey.
+Save time while doing it.
+Your business could handle five or more text conversations in the time it takes to field a typical phone call. And Podium features like folders, assignments, and templates keep all those conversations organized in one place.
+
+Keep them coming back.
+Communication can make or break the customer experience. Podium helps you drive repeat business with the right message for every moment of the customer journey.
+Save time while doing it.
+Your business could handle five or more text conversations in the time it takes to field a typical phone call. And Podium features like folders, assignments, and templates keep all those conversations organized in one place.
+
+Keep them coming back.
+Communication can make or break the customer experience. Podium helps you drive repeat business with the right message for every moment of the customer journey.
+Save time while doing it.
+Your business could handle five or more text conversations in the time it takes to field a typical phone call. And Podium features like folders, assignments, and templates keep all those conversations organized in one place.
+
+Keep them coming back.
+Communication can make or break the customer experience. Podium helps you drive repeat business with the right message for every moment of the customer journey.
+Save time while doing it.
+Your business could handle five or more text conversations in the time it takes to field a typical phone call. And Podium features like folders, assignments, and templates keep all those conversations organized in one place.
+
+Keep them coming back.
+Communication can make or break the customer experience. Podium helps you drive repeat business with the right message for every moment of the customer journey.
+Save time while doing it.
+Your business could handle five or more text conversations in the time it takes to field a typical phone call. And Podium features like folders, assignments, and templates keep all those conversations organized in one place.
+
+Keep them coming back.
+Communication can make or break the customer experience. Podium helps you drive repeat business with the right message for every moment of the customer journey.
+>>>>>>> Stashed changes
