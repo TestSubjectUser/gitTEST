@@ -2,5 +2,3 @@ init text
 annotated text tag
 demonstrating git -- reset soft
 Unstaged changes
-Feature 1 added
-Feature 1.1 added
